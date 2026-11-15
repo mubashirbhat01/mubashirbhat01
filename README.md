@@ -3,7 +3,7 @@
 
 
 ```python
-from people import your_username
+from people import mubashirbhat01
 
 class Bio:
     name        : str = "Mubashir Ahmad Bhat"
