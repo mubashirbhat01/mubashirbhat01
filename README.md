@@ -1,6 +1,6 @@
-# Hey There
+# hey there!👋
 
-First-year B.Tech CSE student at Lovely Professional University. I build full-stack web apps and I'm learning DevOps.
+
 
 ```python
 from people import your_username
@@ -31,8 +31,8 @@ class Currently:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [project-one](https://github.com/YOUR_USERNAME/project-one) | Working | React, Node.js |
-| [project-two](https://github.com/YOUR_USERNAME/project-two) | Working | HTML, CSS, JavaScript |
+| [Project-one](https://github.com/YOUR_USERNAME/project-one) | Working | React, Node.js |
+| [Project-two](https://github.com/YOUR_USERNAME/project-two) | Working | HTML, CSS, JavaScript |
 
 ## Roadmap
 
