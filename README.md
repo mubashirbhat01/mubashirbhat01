@@ -7,7 +7,7 @@ from people import your_username
 
 class Bio:
     name        : str = "Mubashir Ahmad Bhat"
-    education   : str = "B.Tech CSE, Lovely Professional University (2026-2030)"
+    education   : str = "B.Tech CSE"
     role        : str = "Full Stack Developer (learning)"
     focus       : str = "Web development, DevOps"
     base        : str = "Punjab, India"
