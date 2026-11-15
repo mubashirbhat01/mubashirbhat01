@@ -45,7 +45,3 @@ class Currently:
 - [ ] CI/CD with GitHub Actions
 - [ ] Cloud deployment
 
-## Contact
-
-- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mubashir-ahmad-81833a330/)
-- Portfolio: [YOUR_USERNAME.github.io](https://mubashirbhat01.github.io)
