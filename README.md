@@ -1,69 +1,51 @@
-# Hi, I'm Mubashir Ahmad Bhat 👋
+# Hey There
 
-**First-year B.Tech (CSE) student at Lovely Professional University (LPU)** 🎓
-Full-stack developer | DevOps 
+First-year B.Tech CSE student at Lovely Professional University. I build full-stack web apps and I'm learning DevOps.
 
----
+```python
+from people import your_username
 
-## 🔭 What I'm up to
+class Bio:
+    name        : str = "Mubashir Ahmad Bhat"
+    education   : str = "B.Tech CSE, Lovely Professional University (2026-2030)"
+    role        : str = "Full Stack Developer (learning)"
+    focus       : str = "Web development, DevOps"
+    base        : str = "Punjab, India"
 
-- 🌱 Learning **Full Stack Development** (MERN: MongoDB, Express, React, Node.js)
-- ⚙️ Exploring **DevOps**: Linux, Git, Docker, CI/CD, and cloud basics
-- 🛠️ Building small projects to practice what I learn
-- 🤝 Looking to collaborate on beginner-friendly open source projects
 
-## 🧰 Tech Stack
+class Stack:
+    languages   : tuple = ("JavaScript", "Python", "C++")
+    frontend    : tuple = ("HTML", "CSS", "React")
+    backend     : tuple = ("Node.js", "Express")
+    databases   : tuple = ("MongoDB", "MySQL")
+    devops      : tuple = ("Git", "Linux", "Docker", "GitHub Actions")
 
-**Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+class Currently:
+    building    : str = "MERN stack projects"
+    learning    : str = "Docker, CI/CD, cloud deployment"
+    open_to     : str = "Internships, open source, collaboration"
+```
 
-**Backend & Database**
+## Projects
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [project-one](https://github.com/YOUR_USERNAME/project-one) | Working | React, Node.js |
+| [project-two](https://github.com/YOUR_USERNAME/project-two) | Working | HTML, CSS, JavaScript |
 
-**DevOps & Tools (learning)**
+## Roadmap
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## 🗺️ My Learning Roadmap
-
-- [x] HTML, CSS, JavaScript basics
-- [ ] React and responsive UI
-- [ ] Node.js, Express and REST APIs
+- [x] HTML, CSS, JavaScript
+- [ ] React
+- [ ] Node.js, Express, REST APIs
 - [ ] MongoDB and authentication
-- [ ] Linux and shell basics
-- [ ] Docker and containers
+- [ ] Linux and shell
+- [ ] Docker
 - [ ] CI/CD with GitHub Actions
-- [ ] Deploying apps to the cloud (AWS / Render / Vercel)
+- [ ] Cloud deployment
 
-## 📂 Featured Projects
+## Contact
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project One](https://github.com/YOUR_USERNAME/project-one) | Short one-line description | React, Node.js |
-| [Project Two](https://github.com/YOUR_USERNAME/project-two) | Short one-line description | HTML, CSS, JS |
-
-## 📊 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-## 📫 Connect with me
-
-[![LinkedIn](https://www.linkedin.com/in/mubashir-ahmad-81833a330/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dragonvibee01@gmail.com)
-
----
-
-⭐ *"Learning in public, one commit at a time."*
+- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mubashir-ahmad-81833a330/)
+- Portfolio: [YOUR_USERNAME.github.io](https://mubashirbhat01.github.io)
